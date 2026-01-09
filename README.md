@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Ghifa.id👋
 
 <!--
 **ghifa-id/ghifa-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Website OPD Pesisir Selatan** 
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com)
+
+![hello](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg5bTlwOTFjMWlreDdvbzR6MXAxdjZyeGxjdWx5djEyemg3YzByciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9nWOLxB45LhCqQP54j/giphy.gif)
