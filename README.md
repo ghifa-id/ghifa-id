@@ -33,3 +33,11 @@ Here are some ideas to get you started:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314dbnnbc3xxoa6iqbpdqye3cdrq&unique={true|1|on|yes})
 
 ![hello](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg5bTlwOTFjMWlreDdvbzR6MXAxdjZyeGxjdWx5djEyemg3YzByciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9nWOLxB45LhCqQP54j/giphy.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghifa-id/ghifa-id/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghifa-id/ghifa-id/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ghifa-id/ghifa-id/output/pacman-contribution-graph.svg">
+</picture>
+
+###
